@@ -37,3 +37,6 @@ $config = [
   "password"=>"", 
   "db_name"=>"latihan_oop"
 ];
+```
+<img width="1357" height="644" alt="Screenshot from 2025-12-09 19-27-34" src="https://github.com/user-attachments/assets/4fd4f5c9-3cce-4348-9fb4-70bbf927baef" />
+
